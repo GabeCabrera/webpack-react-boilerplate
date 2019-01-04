@@ -1,7 +1,7 @@
 # webpack-react-boilerplate
 Generic boilerplate for react app
 
-- Setup steps -
+- Setup steps
 
 1. Install zip file from git repository.
 
