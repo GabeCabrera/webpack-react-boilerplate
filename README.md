@@ -11,11 +11,9 @@ Generic boilerplate for react app
 
 4. CD into the folder containing the boilerplate.
 
-5. type "npm install webpack-cli --save" [*TO-DO* add webpack-cli to boilerplate install]
+5. type "npm start"
 
-6. type "npm start"
-
-7. at this point you should get some compilation messages,
+6. at this point you should get some compilation messages,
   and it should say at the bottom; "Compiled successfully",
   from here, go to your browser, and in the search bar, 
   type: http://localhost:8080/
