@@ -19,3 +19,6 @@ Generic boilerplate for react app
   and it should say at the bottom; "Compiled successfully",
   from here, go to your browser, and in the search bar, 
   type: http://localhost:8080/
+
+and setup should be complete at this point.
+localhost should be displaying a blank "Hello World" message.
